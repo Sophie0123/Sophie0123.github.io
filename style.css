@@ -1,0 +1,15 @@
+body{
+	background-color: #f9f2ae;
+}
+
+a {
+	color: #fa5893;
+}
+
+a:hover {
+	color:#fba9c6;
+}
+
+img{
+	border-width: 10px;
+}
