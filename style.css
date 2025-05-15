@@ -7,6 +7,13 @@ a {
 }
 
 a:hover {
-	color:#fba9c6;
+	color: #fba9c6;
 }
 
+a:visited{
+	color: #fffbd2;
+}
+
+h1{
+	font-family: "Noto Sans", serif;
+}
